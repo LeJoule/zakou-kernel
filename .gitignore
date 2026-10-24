@@ -1,0 +1,29 @@
+# Build intermediates
+apk-build/
+*.idsig
+*.apk
+*.keystore
+*.jks
+
+# Android / Gradle
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/*.iml
+android/app/*.iml
+android/captures/
+.idea/
+*.hprof
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local preview / test leftovers
+preview-*.mjs
+v*.png
+
+# Optional personal icon (drop your own icon-user.jpg here)
+# icon-user.jpg
