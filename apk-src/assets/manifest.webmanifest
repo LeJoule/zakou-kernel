@@ -1,0 +1,36 @@
+{
+  "id": "./",
+  "name": "杂口内核 · ZAKOU KERNEL",
+  "short_name": "杂口内核",
+  "description": "给地球 Online 加一点粉色 HUD。娱乐向现实视觉特效：人物框、射线、骨骼、距离与雷达。画面只在本机处理。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#120a14",
+  "theme_color": "#160c17",
+  "categories": ["entertainment", "photo"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
